@@ -1,6 +1,16 @@
 {
   "name": "dynamic-input",
   "version": "0.0.1",
+  "homepage": "https://github.com/DavidVotrubec/ng-dynamic-input-width",
+  "description": "Dynamic width of input fields as Angular directive",
+  "license": "MIT",
+  "author": {
+    "name": "David Votrubec",
+    "url": "https://blog.davidjs.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/DavidVotrubec/ng-dynamic-input-width/issues"
+  },
   "peerDependencies": {
     "@angular/common": "^9.1.12",
     "@angular/core": "^9.1.12"
