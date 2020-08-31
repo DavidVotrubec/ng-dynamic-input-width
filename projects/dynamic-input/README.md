@@ -1,4 +1,4 @@
-# DynamicInputWidth
+# Dynamic Input Width
 
 Angular directive for dynamic width of input/textare fields.
 

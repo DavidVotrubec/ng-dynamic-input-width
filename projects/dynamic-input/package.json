@@ -1,6 +1,6 @@
 {
-  "name": "dynamic-input",
-  "version": "0.0.1",
+  "name": "dynamic-input-width",
+  "version": "0.0.2",
   "homepage": "https://github.com/DavidVotrubec/ng-dynamic-input-width",
   "description": "Dynamic width of input fields as Angular directive",
   "license": "MIT",
